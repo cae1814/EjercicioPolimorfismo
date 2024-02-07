@@ -1,0 +1,15 @@
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net8.0\EjercicioPolimorfismo.exe
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net8.0\EjercicioPolimorfismo.deps.json
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net8.0\EjercicioPolimorfismo.runtimeconfig.json
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net8.0\EjercicioPolimorfismo.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net8.0\EjercicioPolimorfismo.pdb
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.sourcelink.json
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\refint\EjercicioPolimorfismo.dll
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.pdb
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\EjercicioPolimorfismo.genruntimeconfig.cache
+C:\Users\cespinozab\Documents\GitHub\Repositorios\EjercicioPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net8.0\ref\EjercicioPolimorfismo.dll
