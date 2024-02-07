@@ -26,6 +26,16 @@ namespace EjercicioPolimorfismo
             Console.WriteLine("");
         }
 
+        public virtual void resumen()
+        {
+            Console.WriteLine("************ Resumen ************");
+            Console.WriteLine("Tipo: " + tipoPersona+ " DNI: "+ Dni + ", Sexo: " + Sexo);
+            Console.WriteLine("Nombre completo: " + Nombres + " " + Apellidos);
+            Console.WriteLine("DNI: " + Dni + ", Sexo: " + Sexo);
+            Console.WriteLine("**********************************");
+            Console.WriteLine("");
+        }
+
 
 
     }

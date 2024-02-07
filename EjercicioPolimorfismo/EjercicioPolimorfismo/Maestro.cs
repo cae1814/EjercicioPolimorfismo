@@ -9,6 +9,10 @@ namespace EjercicioPolimorfismo
     internal class Maestro : Persona
     {
         public Maestro() { }
+        public Maestro(string nombres, string apellidos) { 
+            this.Nombres = nombres;
+            this.Apellidos = apellidos;
+        }
 
         public virtual void verDetalles()
         {

@@ -2,23 +2,27 @@
 using EjercicioPolimorfismo;
 using System.Drawing;
 
-Director dir = new Director();
-dir.Nombres = "Juan Carlos";
-dir.Apellidos = "Zepeda Galo";
-dir.Dni = "0801198055441";
-dir.Sexo = "Masculino";
-dir.tipoPersona = "Director";
-dir.FechaNacimiento = "01/01/1980";
-dir.Edad = 44;
+List<Persona> lista = new List<Persona>();
 
-Maestro mae = new Maestro();
-mae.Nombres = "Rene Francisco";
-mae.Apellidos = "Ruiz Pineda";
+Persona per = new Director();
+per.Nombres = "Juan Carlos";
+per.Apellidos = "Zepeda Galo";
+per.Dni = "0801198055441";
+per.Sexo = "Masculino";
+per.tipoPersona = "Director";
+per.FechaNacimiento = "01/01/1980";
+per.Edad = 44;
+
+lista.Add(per);
+
+Maestro mae = new Maestro("Rene Francisco", "Ruiz Pineda");
 mae.Dni = "0801199405522";
 mae.Sexo = "Masculino";
 mae.tipoPersona = "Maestro";
 mae.FechaNacimiento = "01/02/1994";
 mae.Edad = 30;
+
+lista.Add(mae);
 
 Estudiante est = new Estudiante();
 est.Nombres = "Jose Roberto";
@@ -29,12 +33,18 @@ est.tipoPersona = "Alumno";
 est.FechaNacimiento = "01/03/2000";
 est.Edad = 24;
 
-var personas = new List<Persona>
-{
-    dir,mae,est
-};
+lista.Add(est);
 
-foreach (var persona in personas)
+foreach (Persona persona in lista)
 {
     persona.verDetalles();
+}
+
+Console.WriteLine();
+Console.WriteLine("Resumen rapido....");
+Console.WriteLine();
+
+foreach (Persona persona in lista)
+{
+    persona.resumen();
 }

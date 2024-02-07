@@ -10,6 +10,12 @@ namespace EjercicioPolimorfismo
     {
         public Estudiante() { }
 
+        public Estudiante(string nombres, string apellidos)
+        {
+            this.Nombres = nombres;
+            this.Apellidos = apellidos;
+        }
+
         public virtual void verDetalles()
         {
             base.verDetalles();
